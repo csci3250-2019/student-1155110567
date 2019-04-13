@@ -17,5 +17,5 @@ Language I know:
 | **2** | CSCI 3250 + CSCI3251 |
 
 Programming is fun! Do you Agree?
--[X] Yes
--[ ] No
+- [X] Yes
+- [ ] No
