@@ -1,6 +1,6 @@
 ## Hello Everyone!
-My name is *Cheung Hon San*
-You can call me **Jason**
+My name is *Cheung Hon San*.
+You can call me **Jason**.
 This is my first time using GitHub.
 
 Language I know:
